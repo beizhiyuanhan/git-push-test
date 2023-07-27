@@ -18,6 +18,10 @@ public class gitTest {
         System.out.println("push4");
         System.out.println("push5");
 
+        
+         System.out.println("push6");
+         System.out.println("push7");
+
 
     }
 }
