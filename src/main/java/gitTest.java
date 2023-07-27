@@ -16,6 +16,7 @@ public class gitTest {
         System.out.println("push2");
         System.out.println("push3");
         System.out.println("push4");
+        System.out.println("push5");
 
 
     }
